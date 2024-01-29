@@ -1,0 +1,5 @@
+git init
+npm init -y
+git add nome_do_arquivo #adiciona os arquivos para traquear
+git add * #adiciona todos os arquivos traquear
+git commit #criar um versão dos arquivos
